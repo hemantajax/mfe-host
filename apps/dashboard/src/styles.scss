@@ -1,3 +1,2 @@
-// @import '@hemantajax/uikit/styles/main';
-
-@use '@hemantajax/uikit/styles/main' as *;
+// Temporary workaround: Access styles via node_modules path directly (bypasses exports restriction)
+@use '../../../node_modules/@hemantajax/uikit/styles/main' as *;

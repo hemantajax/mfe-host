@@ -1,0 +1,202 @@
+{
+  "id": "dashboard",
+  "name": "dashboard",
+  "metaData": {
+    "name": "dashboard",
+    "type": "app",
+    "buildInfo": {
+      "buildVersion": "0.0.0",
+      "buildName": "@mfeworld/source"
+    },
+    "remoteEntry": {
+      "name": "",
+      "path": "",
+      "type": "module"
+    },
+    "types": {
+      "path": "",
+      "name": "",
+      "zip": "",
+      "api": ""
+    },
+    "globalName": "dashboard",
+    "pluginVersion": "0.18.4",
+    "prefetchInterface": false,
+    "publicPath": "auto"
+  },
+  "shared": [
+    {
+      "id": "dashboard:@angular/common/http",
+      "name": "@angular/common/http",
+      "version": "20.3.7",
+      "singleton": true,
+      "requiredVersion": "~20.3.0",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "111.81ea8e131c34e59a.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "dashboard:@angular/common",
+      "name": "@angular/common",
+      "version": "20.3.7",
+      "singleton": true,
+      "requiredVersion": "~20.3.0",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "705.9d4ea4080f08c983.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "dashboard:@angular/core/primitives/di",
+      "name": "@angular/core/primitives/di",
+      "version": "20.3.7",
+      "singleton": true,
+      "requiredVersion": "~20.3.0",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "common.bc77547b66323507.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "dashboard:@angular/core/primitives/signals",
+      "name": "@angular/core/primitives/signals",
+      "version": "20.3.7",
+      "singleton": true,
+      "requiredVersion": "~20.3.0",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "common.bc77547b66323507.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "dashboard:@angular/core",
+      "name": "@angular/core",
+      "version": "20.3.7",
+      "singleton": true,
+      "requiredVersion": "~20.3.0",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "295.2455a1df5ab470db.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "dashboard:@angular/forms",
+      "name": "@angular/forms",
+      "version": "20.3.7",
+      "singleton": true,
+      "requiredVersion": "~20.3.0",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "341.38ca8f65d166bfad.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "dashboard:@angular/platform-browser",
+      "name": "@angular/platform-browser",
+      "version": "20.3.7",
+      "singleton": true,
+      "requiredVersion": "~20.3.0",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "567.bba18124e78a088c.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "dashboard:@angular/router",
+      "name": "@angular/router",
+      "version": "20.3.7",
+      "singleton": true,
+      "requiredVersion": "~20.3.0",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "189.07a3edae4284bef8.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "dashboard:@hemantajax/uikit",
+      "name": "@hemantajax/uikit",
+      "version": "0.0.7",
+      "singleton": true,
+      "requiredVersion": "^0.0.7",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "common.bc77547b66323507.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    }
+  ],
+  "remotes": [],
+  "exposes": []
+}

@@ -42,6 +42,8 @@
             }
           ],
           "outputHashing": "all",
+          "baseHref": "/mfe-host/",
+          "deployUrl": "/mfe-host/",
           "customWebpackConfig": {
             "path": "apps/dashboard/webpack.prod.config.ts"
           },

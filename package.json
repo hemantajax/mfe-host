@@ -20,7 +20,8 @@
     "affected:build": "nx affected:build",
     "affected:lint": "nx affected:lint",
     "graph": "nx graph",
-    "reset": "nx reset"
+    "reset": "nx reset",
+    "deploy": "nx build dashboard --configuration=production && npx angular-cli-ghpages --dir=dist/apps/dashboard --repo=https://github.com/hemantajax/mfe-host.git --branch=gh-pages --no-silent"
   },
   "private": true,
   "dependencies": {
@@ -63,6 +64,7 @@
     "@types/jest": "^29.5.12",
     "@types/node": "18.16.9",
     "@typescript-eslint/utils": "^8.40.0",
+    "angular-cli-ghpages": "^2.0.3",
     "angular-eslint": "^20.3.0",
     "eslint": "^9.8.0",
     "eslint-config-prettier": "^10.0.0",
